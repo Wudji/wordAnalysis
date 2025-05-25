@@ -5,6 +5,7 @@ This repository uses the Python library ***spaCy*** to analyze and compare the *
 ### How to Use
 
 1. **Install dependencies**
+
     First, make sure you have Python installed. Then, install all required libraries using the following command:
 
    ```
@@ -23,6 +24,7 @@ This repository uses the Python library ***spaCy*** to analyze and compare the *
    - The other should contain academic paper writing.
 
 3. **Run the script**
+
     Use the following command to run the analysis script:
 
    ```
